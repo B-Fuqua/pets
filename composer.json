@@ -1,0 +1,16 @@
+{
+  "name": "greatben/328/pets",
+  "authors": [
+    {
+      "name": "Ben Fuqua",
+      "email": "bfuqua@mail.greenriver.edu"
+    },
+    {
+      "name":"",
+      "email": ""
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
