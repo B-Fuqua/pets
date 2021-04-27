@@ -14,3 +14,6 @@ $f3 = Base::instance();
 $f3->route('GET /', function(){
     echo "<h1>Pet Home</h1>";
 });
+
+//Run Fat-Free
+$f3->run();
